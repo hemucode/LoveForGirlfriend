@@ -47,3 +47,6 @@ hemantagayen999@gmail.com or Support url: https://www.downloadhub.cloud/p/contac
 ==========================================
 https://www.downloadhub.cloud/p/application-policie.html?name=Love_for_Girlfriend
 
+
+![](banner/2160x3140X1png.png,banner/2160x3140X2png.png)
+
