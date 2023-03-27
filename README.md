@@ -32,7 +32,9 @@ The app is user-friendly and easy to navigate, so you can quickly and easily wri
 ==================================================================
 
 If you are looking for Bengali love poems then you can try our app: 
+
 Google Play Store: https://play.google.com/store/apps/details?id=com.codehemu.bangla_bhlobasar_kabita
+
 Official: https://www.downloadhub.cloud/p/bangla-app.html
 
 
