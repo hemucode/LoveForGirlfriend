@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.LoveForGirlfriend" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/pink</item>
+        <item name="colorPrimaryVariant">@color/pink</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/pink</item>
+        <item name="colorSecondaryVariant">@color/pink</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="23">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.LoveForGirlfriend.Fullscreen" parent="Theme.LoveForGirlfriend">
+        <item name="android:actionBarStyle">
+            @style/Widget.Theme.LoveForGirlfriend.ActionBar.Fullscreen
+        </item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+
+    <style name="Theme.LoveForGirlfriend.Splash" parent="Theme.LoveForGirlfriend">
+        <item name="android:actionBarStyle">
+            @style/Widget.Theme.LoveForGirlfriend.ActionBar.Fullscreen
+        </item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:statusBarColor" tools:targetApi="23">?attr/colorOnSecondary</item>
+    </style>
+
+    <style name="ThemeOverlay.LoveForGirlfriend.FullscreenContainer" parent="">
+        <item name="fullscreenBackgroundColor">?attr/colorOnSecondary</item>
+        <item name="fullscreenTextColor">?attr/colorOnPrimary</item>
+    </style>
+</resources>
